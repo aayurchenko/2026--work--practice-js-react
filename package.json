@@ -8,7 +8,7 @@
   "private": true,
   "scripts": {
     "commit": "czg",
-    "changelog": "conventional-changelog -p conventionalcommits -i CHANGELOG.md -o CHANGELOG.md -t v"
+    "changelog": "conventional-changelog -p conventionalcommits -i CHANGELOG.md -o CHANGELOG.md -t v -u"
   },
   "devDependencies": {
     "conventional-changelog": "^8.1.3",
