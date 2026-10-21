@@ -2,13 +2,13 @@
   "name": "work-js-ts-react",
   "version": "1.0.0",
   "description": "Практика JS TS react",
-  "repository": "",
+  "repository": "https://github.com/aayurchenko/2026--work--practice-js-react",
   "author": "Tema Yurchenko <temaunique3@gmail.com>",
   "license": "CC-BY-4.0",
   "private": true,
   "scripts": {
     "commit": "czg",
-    "changelog": "conventional-changelog -p conventionalcommits -i CHANGELOG.md -o CHANGELOG.md -t practice-v"
+    "changelog": "conventional-changelog -p conventionalcommits -i CHANGELOG.md -o CHANGELOG.md -t v"
   },
   "devDependencies": {
     "conventional-changelog": "^8.1.3",
