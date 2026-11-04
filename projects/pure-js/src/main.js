@@ -21,7 +21,13 @@ import './style.css'
 // import './classes/08-class.js'
 // import './classes/09-class.js'
 // import './classes/10-class.js'
-import './classes/11-class.js'
+// import './classes/11-class.js'
+// import './classes/12-class.js'
+// import './classes/13-class.js'
+// import './classes/14-class.js'
+// import './classes/15-class.js'
+// import './classes/16-class.js'
+import './classes/17-class.js'
 
 
 document.querySelector('#app').innerHTML = ``
